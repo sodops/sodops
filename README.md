@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer • Linux Tamer • Terminal Whisperer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Sudo+life+on+repeat...;I+do+DevOps+and+chill;Cats+%2B+Coffee+%3D+Code+Zen;Ping+me+if+uptime+is+down!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Sudo+life+on+repeat...;I+do+DevOps+and+chill;Cats+%2B+Coffee+%3D+Code+Zen;Ping+me+if+uptime+is+down!" />
 </div>
 
 ---
@@ -19,22 +19,11 @@
 
 ### 💻 Tech Stack
 
-🌐 **OS**: Arch • Ubuntu • Windows 11 •
+🌐 **OS**: Arch • Ubuntu • Windows 11 
 ⚙️ **Tools**: Docker • Git • CI/CD • Bash  
 🔧 **Infra**: Prometheus • Grafana • Nginx • Samba  
-🧠 **Learning**: Machine Learning w/ Python • YAML Wizardry  
+🧠 **Learning**: QA • YAML Wizardry • Docker • Kubernetes
 🐱‍💻 **Editor**: VS Code (with 10+ extensions I don’t remember installing)
-
----
-
-### 🚀 Projects I’m Proud Of
-
-- 🖥 **Linux Monitoring v2.0**  
-  Realtime system stats, fake log generators, Prometheus dashboards & stress tools — all scripted in Bash.  
-  _A DevOps playground disguised as a project._
-
-- 🧪 **Docker-Nginx Setup**  
-  Reverse proxy experiments, port mappings, container orchestration... and yes, it worked on my machine.
 
 ---
 
@@ -56,6 +45,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sodops&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodops&layout=compact&theme=tokyonight" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KarimjonovSodiq)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
