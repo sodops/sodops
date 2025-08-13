@@ -62,22 +62,25 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+---
+### ⚡ Fun Facts
+
+<div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h3>⚡ Fun Facts</h3>
-    <ul>
-      <li>🐱 Cats make better debugging partners than humans</li>
-      <li>☕ I believe every good script starts with <code>#!/bin/bash</code> and a sip of espresso</li>
-      <li>📸 Pinterest board = my visual brain</li>
-      <li>🚗 Dream ride? <strong>Porsche 911 GT3 RS</strong></li>
-      <li>💬 I speak Bash, YAML, a bit of Python, and sarcasm</li>
-    </ul>
+    
+- 🐱 Cats make better debugging partners than humans  
+- ☕ I believe every good script starts with `#!/bin/bash` and a sip of espresso  
+- 📸 Pinterest board = my visual brain  
+- 🚗 Dream ride? **Porsche 911 GT3 RS**  
+- 💬 I speak Bash, YAML, a bit of Python, and sarcasm
+
   </div>
   <div style="flex: 0 0 auto; margin-left: 20px;">
     <img src="./2.gif" alt="Animated GIF" style="height: auto; width: auto;" />
   </div>
 </div>
 
+---
 ### 📬 Let's Connect
 
 <p align="center">
