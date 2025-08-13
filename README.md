@@ -10,6 +10,9 @@
 
 ---
 
+<img src="./1.jpeg" alt="Animated GIF" style="height: 200px; width: 200px;" />
+<img src="./2.jpeg" alt="Animated GIF" style="height: 200px; width: 200px;" />
+
 ### 🤖 About Me
 - 🔭 I’m currently studying on **21-school**
 - 🌱 I’m learning **Docker, Prometheus, Grafana & all things DevOps**
@@ -49,6 +52,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodops&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=KarimjonovSodiq)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
@@ -65,20 +70,11 @@
 ---
 ### ⚡ Fun Facts
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    
 - 🐱 Cats make better debugging partners than humans  
 - ☕ I believe every good script starts with `#!/bin/bash` and a sip of espresso  
 - 📸 Pinterest board = my visual brain  
 - 🚗 Dream ride? **Porsche 911 GT3 RS**  
 - 💬 I speak Bash, YAML, a bit of Python, and sarcasm
-
-  </div>
-  <div style="flex: 0 0 auto; margin-left: 20px;">
-    <img src="./2.gif" alt="Animated GIF" style="height: auto; width: auto;" />
-  </div>
-</div>
 
 ---
 ### 📬 Let's Connect
