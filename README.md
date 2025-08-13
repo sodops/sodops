@@ -74,13 +74,18 @@
 ---
 ### ⚡ Fun Facts
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div style="flex: 1;">
+
 - 🐱 Cats make better debugging partners than humans  
 - ☕ I believe every good script starts with `#!/bin/bash` and a sip of espresso  
 - 📸 Pinterest board = my visual brain  
 - 🚗 Dream ride? **Porsche 911 GT3 RS**   
 
-<div align="right">
+</div>
+<div style="flex-shrink: 0; margin-left: 20px;">
   <img src="./porsche.gif" alt="Porsche 911 GT3 RS" width="250"/>
+</div>
 </div>
 
 ---
