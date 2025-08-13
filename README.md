@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="./6.gif">
     <img src="./6.gif" alt="Animated GIF" style="height: auto; width: auto;" />
-  </a>
 </div>
 <h1 align="center">Hi there 👋, I'm Sodiq</h1>
 <h3 align="center">DevOps Engineer • Linux Tamer • Terminal Whisperer</h3>
@@ -86,3 +84,6 @@
 > 🧘‍♂️ _“Keep calm and `chmod +x` your dreams.”_
 
 ---
+<div align="center">
+    <img src="./4.gif" alt="Animated GIF" style="height: auto; width: auto;" />
+</div>
