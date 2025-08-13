@@ -1,5 +1,8 @@
-<img src="./3.gif" alt="Animated GIF" style="display: block; margin: 0 auto; height: auto;" />
-
+<div align="center">
+  <a href="./3.gif">
+    <img src="./3.gif" alt="Animated GIF" style="height: auto;" />
+  </a>
+</div>
 <h1 align="center">Hi there 👋, I'm Sodiq</h1>
 <h3 align="center">DevOps Engineer • Linux Tamer • Terminal Whisperer</h3>
 
