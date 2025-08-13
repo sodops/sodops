@@ -83,7 +83,9 @@
 
 > 🧘‍♂️ _“Keep calm and `chmod +x` your dreams.”_
 
----
+
 <div align="center">
     <img src="./4.gif" alt="Animated GIF" style="height: auto; width: auto;" />
 </div>
+
+---
