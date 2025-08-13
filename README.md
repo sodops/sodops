@@ -1,7 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Sodiq</h1>
+
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=1000&section=header&text=DevOps%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=38&" alt="Header Animation" />
+    <img src="6.gif"></img>
 </div>
+
+<h1 align="center">Hi there 👋, I'm Sodiq</h1>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007FFF&center=true&vCenter=true&width=435&lines=Sudo+life+on+repeat...;I+do+DevOps+and+chill;Cats+%2B+Coffee+%3D+Code+Zen;Ping+me+if+uptime+is+down!" />
@@ -22,7 +25,7 @@
 - 🌱 I’m learning **Docker, Prometheus, Grafana & all things DevOps**
 - 🔄 I dual-boot reality with **Windows 11 + Arch Linux**
 - 🎮 When I'm not coding, I'm probably fragging on **CS 2** or building in **Minecraft**
-- 🐧 I talk to **Linux terminals** more than I talk to people (and they actually listen!)
+- <img src="2.gif" style="height:20px; width: 20px; display: inline;" />  I talk to **Linux terminals** more than I talk to people (and they actually listen!)
 - ☕ Coffee level: `systemctl status --all OK`
 
 ---
