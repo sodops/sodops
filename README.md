@@ -1,4 +1,4 @@
-<a href="./2.gif"><img src="./2.gif" alt="Animated GIF" style="align-items: center; width:0 auto; height:auto"/></a>
+<a href="./3.gif"><img src="./3.gif" alt="Animated GIF" style="align-items: center; width:0 auto; height:auto"/></a>
 
 
 <h1 align="center">Hi there 👋, I'm Sodiq</h1>
