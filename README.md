@@ -1,5 +1,4 @@
-<a href="./3.gif"><img src="./3.gif" alt="Animated GIF" style="align-items: center; width:0 auto; height:auto"/></a>
-
+<img src="./3.gif" alt="Animated GIF" style="display: block; margin: 0 auto; height: auto;" />
 
 <h1 align="center">Hi there 👋, I'm Sodiq</h1>
 <h3 align="center">DevOps Engineer • Linux Tamer • Terminal Whisperer</h3>
