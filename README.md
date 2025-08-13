@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="6.gif"></img>
+    <img src="banner.jpeg"></img>
 </div>
 
 <h1 align="center">Hi there 👋, I'm Sodiq</h1>
