@@ -74,21 +74,14 @@
 ---
 ### ⚡ Fun Facts
 
-<table>
-<tr>
-<td>
-
 - 🐱 Cats make better debugging partners than humans  
 - ☕ I believe every good script starts with `#!/bin/bash` and a sip of espresso  
 - 📸 Pinterest board = my visual brain  
 - 🚗 Dream ride? **Porsche 911 GT3 RS**   
 
-</td>
-<td align="right">
+<div align="right">
   <img src="./porsche.gif" alt="Porsche 911 GT3 RS" width="250"/>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 ### 📬 Let's Connect
