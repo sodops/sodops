@@ -10,8 +10,11 @@
 
 ---
 <div align="center">
-  <img src="./1.jpeg" alt="Animated GIF" style="height: 200px; width: 200px;" />
-  <img src="./2.jpeg" alt="Animated GIF" style="height: 200px; width: 200px;" />
+  <img src="./1.jpeg"  style="height: 200px; width: 200px;" />
+  <img src="./2.jpeg"  style="height: 200px; width: 200px;" />
+  <img src="./3.jpeg"  style="height: 200px; width: 200px;" />
+  <img src="./4.jpeg"  style="height: 200px; width: 200px;" />
+  <img src="./5.jpeg"  style="height: 200px; width: 200px;" />
 </div>
 
 ### 🤖 About Me
