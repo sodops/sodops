@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="./3.gif">
-    <img src="./3.gif" alt="Animated GIF" style="height: auto;" />
+  <a href="./4.gif">
+    <img src="./4.gif" alt="Animated GIF" style="height: auto; width: auto;" />
   </a>
 </div>
 <h1 align="center">Hi there 👋, I'm Sodiq</h1>
