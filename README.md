@@ -48,6 +48,8 @@
 
 ---
 
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 1000px; height: 300px;" />
+  
 ### 📊 GitHub Stats
 
 <p align="center">
