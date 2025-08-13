@@ -1,8 +1,7 @@
-<div align="center">
-    <img src="./6.gif" alt="Animated GIF" style="height: auto; width: auto;" />
-</div>
 <h1 align="center">Hi there 👋, I'm Sodiq</h1>
-<h3 align="center">DevOps Engineer • Linux Tamer • Terminal Whisperer</h3>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=1000&section=header&text=DevOps%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Linux%20Tamer%20•%20Terminal%20Whisperer&descAlignY=51&descAlign=50" alt="Header Animation" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Sudo+life+on+repeat...;I+do+DevOps+and+chill;Cats+%2B+Coffee+%3D+Code+Zen;Ping+me+if+uptime+is+down!" />
@@ -70,6 +69,14 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 ### ⚡ Fun Facts
@@ -83,8 +90,11 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://t.me/sodops"><img src="https://img.shields.io/badge/Telegram-Sodops-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/sodops"><img src="https://img.shields.io/badge/GitHub-sodops-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://t.me/sodops"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/sodops"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sodops@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sodops"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.gg/sodops"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
