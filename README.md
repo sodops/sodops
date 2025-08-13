@@ -9,8 +9,8 @@
 </div>
 
 ---
-<img src="./1.jpeg" alt="Animated GIF" style="height: 200px; width: 200px; display: inline-block;" />
-<img src="./2.jpeg" alt="Animated GIF" style="height: 200px; width: 200px; display: inline-block;" />
+<img src="./1.jpeg" alt="Animated GIF" style="height: 200px; width: 200px; display: inline" />
+<img src="./2.jpeg" alt="Animated GIF" style="height: 200px; width: 200px; display: inline" />
 
 ### 🤖 About Me
 - 🔭 I’m currently studying on **21-school**
