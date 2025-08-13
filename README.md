@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sodiq</h1>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=1000&section=header&text=DevOps%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Linux%20Tamer%20•%20Terminal%20Whisperer&descAlignY=51&descAlign=50" alt="Header Animation" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=1000&section=header&text=DevOps%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=38&" alt="Header Animation" />
 </div>
 
 <div align="center">
