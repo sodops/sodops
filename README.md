@@ -4,10 +4,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Sudo+life+on+repeat...;I+do+DevOps+and+chill;Cats+%2B+Coffee+%3D+Code+Zen;Ping+me+if+uptime+is+down!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007FFF&center=true&vCenter=true&width=435&lines=Sudo+life+on+repeat...;I+do+DevOps+and+chill;Cats+%2B+Coffee+%3D+Code+Zen;Ping+me+if+uptime+is+down!" />
 </div>
 
 ---
+
 <div align="center">
   <img src="./1.jpeg"  style="height: 150px; width: 150px;" />
   <img src="./2.jpeg"  style="height: 150px; width: 150px;" />
