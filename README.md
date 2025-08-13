@@ -1,3 +1,6 @@
+<a href="./1.gif"><img src="./1.gif" alt="Animated GIF" style="width:auto; height:auto" /></a>
+
+
 <h1 align="center">Hi there 👋, I'm Sodiq</h1>
 <h3 align="center">DevOps Engineer • Linux Tamer • Terminal Whisperer</h3>
 
