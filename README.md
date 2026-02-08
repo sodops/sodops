@@ -25,7 +25,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="octocat-1770558539291.png" width="100%" alt="My Octocat" />
+      <img src="vid.gif" width="100%" alt="Profile Video" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
