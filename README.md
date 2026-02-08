@@ -20,7 +20,7 @@
       <p align="left">
         <a href="https://t.me/sodops"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
         <a href="https://github.com/sodops"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-        <a href="mailto:sodops@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+        <a href="mailto:info@sodops.uz"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
         <a href="https://linkedin.com/in/sodops"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       </p>
     </td>
@@ -42,7 +42,7 @@ Shell:    Zsh + Oh My Zsh
 Uptime:   Coffee dependent
 Role:     DevOps Student
 Focus:    Automation & Cloud Native
-Learning: Kubernetes, Rust, DevSecOps
+Learning: Kubernetes, Terraform, DevSecOps
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
