@@ -8,7 +8,7 @@
         Hello Fellow &lt; DevOps/ &gt;!
       </h1>
       <p> 
-        🚀 <strong>DevOps Enthusiast</strong> | ☁️ <strong>Cloud Native</strong> | 🐧 <strong>NixOS Main</strong> 
+        🚀 <strong>DevOps Enthusiast</strong> | ☁️ <strong>Cloud Native</strong> | 🐧 
         <br>
         Crafted with 💻 & a pinch of <b>Bash Magic</b> 🪄
       </p>
@@ -37,12 +37,12 @@
 ```bash
 sodops@21-school
 ----------------
-OS:       NixOS / Arch Linux
-Shell:    Zsh + Oh My Zsh
+OS:       Ubuntu / Arch Linux
+Shell:    bash
 Uptime:   Coffee dependent
 Role:     DevOps Student
 Focus:    Automation & Cloud Native
-Learning: Kubernetes, Terraform, DevSecOps
+Learning: Kubernetes, Terraform, DevSecOps, MLops
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
