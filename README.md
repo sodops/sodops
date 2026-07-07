@@ -35,7 +35,7 @@
 ### 👨‍💻 `user@sodops:~$ neofetch`
 
 ```bash
-sodops@21-school
+sodops@host
 ----------------
 OS:       Ubuntu / Arch Linux
 Shell:    bash
