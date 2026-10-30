@@ -37,7 +37,7 @@
 ```bash
 sodops@host
 ----------------
-OS:       Ubuntu / Arch Linux
+OS:       Ubuntu 
 Shell:    bash
 Uptime:   Coffee dependent
 Role:     DevOps Student
